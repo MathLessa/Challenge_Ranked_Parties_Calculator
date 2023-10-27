@@ -1,0 +1,2 @@
+# Challenge: Ranked Parties Calculator
+This challenge is proposed by the bootcamp Ifood tech on DIO. The goal is to calculate the Rank the player is by using a number of victories and calculate the balance between the number of victories and the number of defeats.
